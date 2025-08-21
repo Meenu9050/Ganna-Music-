@@ -25,7 +25,7 @@ telegraph==2.2.0
 yt-dlp
 lexica-api==1.4.7
 httpx==0.25.2
-lyricsgenius
+lyricsgenius==3.0.1
 spotipy
 youtube_search
 youtube-search-python
@@ -35,3 +35,4 @@ bing_image_downloader
 gpytranslate
 git+https://github.com/KurimuzonAkuma/pyrogram.git@v2.1.23
 git+https://github.com/yt-dlp/yt-dlp.git
+SafoneAPI
